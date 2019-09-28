@@ -1,0 +1,28 @@
+{
+  "name": "rei-hino",
+  "version": "1.0.0",
+  "description": "A bot written as practice",
+  "main": "dist/rei",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyler Lay",
+  "license": "ISC",
+  "dependencies": {
+    "@types/moment-duration-format": "^2.2.2",
+    "@types/node": "^12.7.5",
+    "@types/ws": "^6.0.3",
+    "chalk": "^2.4.2",
+    "discord-akairo": "^8.0.0-beta.8",
+    "discord.js": "github:discordjs/discord.js",
+    "moment": "^2.24.0",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "typescript": "^3.6.3",
+    "util": "^0.12.1"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.1"
+  }
+}
